@@ -30772,3 +30772,14 @@ section.services_view {
 .mt-65{
 	margin-top: 65px !important;
 }
+
+
+img.aagya-product {
+    width: 400px;
+}
+
+.product-con-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
