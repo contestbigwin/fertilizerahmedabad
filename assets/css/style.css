@@ -30723,10 +30723,10 @@ img.call-img {
     -ms-transform: translate(-50%,0%);
     text-align: center;
     background: white;
-    border: 2px solid #5d763f;
+    border: 2px solid #0070b5;
     border-radius: 10px;
     padding: 3px 23px;
-    color: #5d763f;
+    color: #0070b5;
     -webkit-box-shadow: 0px 0px 5px 2px rgb(26 25 25 / 19%);
     font-size: 19px;
 }
@@ -30738,7 +30738,7 @@ img.call-img {
 .row.service-pack fieldset {
     background: #fff;
     position: relative;
-    border: 2px solid #5d763f !important;
+    border: 2px solid #0072b3 !important;
     border-radius: 10px;
     padding: 39px 15px 11px 15px;
     -webkit-box-shadow: 0px 0px 5px 2px rgb(26 25 25 / 19%);
@@ -30766,7 +30766,7 @@ p.mt-15{  margin-top: 15px !important;}
 }
 
 section.services_view {
-    background: #d8e6c7;
+    background: #e1f4ff;
 }
 
 .mt-65{
