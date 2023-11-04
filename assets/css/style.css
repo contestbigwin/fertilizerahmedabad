@@ -30670,6 +30670,31 @@ img.vision {
 }
 	}
 @media only screen and (max-width: 767px) {
+	
+	.rts-breadcrumb-area .bread-tag {
+   
+    padding: 3px 15px;
+   
+}
+section.services_view {
+  
+    padding: 0 9px;
+}
+.row.service-pack legend span {
+    width: 86% !important;
+    padding: 3px 2px !important;
+}	
+.product-con-img {
+    display: flex;
+    flex-direction: column;
+}
+.product-con-img img {
+    margin-top: 22px;
+}
+	.rts-breadcrumb-area .title {
+    font-size: 30px;
+    line-height: 1.2;
+}
 	.banner-three-inner .title {
     font-size: 23px;
 }
