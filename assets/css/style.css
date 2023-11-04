@@ -30668,9 +30668,18 @@ img.vision {
 		.vision-mission-bx {
     height: 684px;
 }
-	}
+	} 
 @media only screen and (max-width: 767px) {
 	
+	.Mission-text-img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+	.Mission-text-img img {
+    width: 84%;
+    margin: 25px 0 0 0 !important;
+}
 	.rts-breadcrumb-area .bread-tag {
    
     padding: 3px 15px;
@@ -30834,8 +30843,14 @@ h2.title {
 
 
 
-
-
+.Mission-text-img img {
+    width: 283px;
+    margin: 0 0 0 66px;
+}
+.Mission-text-img {
+    display: flex;
+    align-items: center;
+}
 
 
 
