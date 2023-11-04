@@ -30697,3 +30697,78 @@ img.call-img {
     border-bottom: 1px solid #b4b4b4;
 }
 }
+
+
+
+
+
+
+.rts-breadcrumb-area .title {
+    font-size: 40px;
+}
+.py-50 {
+	padding: 50px 0;
+}
+
+
+
+
+
+.row.service-pack legend span {
+    position: absolute;
+    left: 50%;
+    top: -18px;
+    -webkit-transform: translate(-50%,0%) !important;
+    transform: translate(-50%,0%) !important;
+    -ms-transform: translate(-50%,0%);
+    text-align: center;
+    background: white;
+    border: 2px solid #5d763f;
+    border-radius: 10px;
+    padding: 3px 23px;
+    color: #5d763f;
+    -webkit-box-shadow: 0px 0px 5px 2px rgb(26 25 25 / 19%);
+    font-size: 19px;
+}
+.row.service-pack legend {
+    border: navajowhite;
+    display: contents;
+}
+
+.row.service-pack fieldset {
+    background: #fff;
+    position: relative;
+    border: 2px solid #5d763f !important;
+    border-radius: 10px;
+    padding: 39px 15px 11px 15px;
+    -webkit-box-shadow: 0px 0px 5px 2px rgb(26 25 25 / 19%);
+}
+
+.row.service-pack legend {
+    border: navajowhite;
+    display: contents;
+}
+h2.sub-title {
+    font-size: 18px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.product-info p {
+    margin: 0px !important;
+    font-size: 15px;
+    padding: 0px !important;
+    line-height: 1.5;
+}
+p.mt-15{  margin-top: 15px !important;}
+.mt-30 {
+	margin-top: 30px !important;
+}
+
+section.services_view {
+    background: #d8e6c7;
+}
+
+.mt-65{
+	margin-top: 65px !important;
+}
