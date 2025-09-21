@@ -30813,9 +30813,10 @@ img.aagya-product {
 }
 
 .product-con-img {
-    display: flex;
+   display: flex
+;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between; 
 }
 
 
